@@ -1,7 +1,8 @@
 # NetAnalyzer
 
 NetAnalyzer is a terminal-based network monitoring tool built with Python, Scapy, and a custom curses TUI.
-It captures live traffic, resolves source countries via GeoLite2, tracks basic traffic statistics, and raises simple alerts for suspicious patterns such as port scanning and repeated SSH connection attempts.
+It captures live traffic, resolves source countries via GeoLite2, tracks basic traffic statistics, and raises simple alerts for suspicious patterns such as port scanning and repeated SSH connection attempts.  
+![alt text](https://raw.githubusercontent.com/ashxj/NetAnalyzer/refs/heads/main/screenshots/preview.png)
 
 ## Features
 
